@@ -6,7 +6,7 @@
 
 會建立 /etc/httpd/conf.d/dehydrated.conf Alias 目錄到 /etc/dehydrated
 
-所以 wellknown 檢查都透過直接透過那個 Alias
+所以 wellknown 檢查都直接透過那個 Alias
 
 ## HowTo
 
