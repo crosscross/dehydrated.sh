@@ -13,6 +13,7 @@
 ```text
 mkdir /etc/dehydrated
 wget https://raw.githubusercontent.com/lukas2511/dehydrated/master/dehydrated -O /etc/dehydrated/dehydrated
+wget https://raw.githubusercontent.com/crosscross/dehydrated.sh/master/dehydrated.sh -O /etc/dehydrated/dehydrated.sh
 ln -s /etc/dehydrated/dehydrated.sh  /usr/local/bin/dehydrated.sh
 chmod +x /usr/local/bin/dehydrated.sh
 dehydrated.sh
